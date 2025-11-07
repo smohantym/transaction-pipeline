@@ -1,0 +1,1 @@
+txn_id,event_ts,user_id,card_id,merchant,category,amount,currency,status,city,country,lat,lon
